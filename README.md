@@ -20,7 +20,7 @@ O modelo SEIR divide a população de tamanho total $N$ em quatro compartimentos
 - **Período de Incubação Médio (sigma):** 5 dias (sigma = 0.2).
 - **Período Médio de Recuperação (gamma):** 7 dias (gamma ≈ 0.143).
 - **Cenários Analisados:**
-  - **Cenário 1 (Sem Intervenção):** Alta taxa de transmissão (beta = 0.8), representando uma situação em que não há controle de vetores ou uso de repelentes.
+  - **Cenário 1 (Sem Intervenção):** Alta taxa de transmissão (beta = 0.9), representando uma situação em que não há controle de vetores ou uso de repelentes.
   - **Cenário 2 (Com Intervenção):** Redução da taxa de transmissão pela metade (beta = 0.4), simulando o impacto de campanhas de eliminação de focos de mosquitos e uso generalizado de repelentes.
 
 ---
